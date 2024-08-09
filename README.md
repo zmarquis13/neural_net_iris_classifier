@@ -1,5 +1,7 @@
 Zeno Marquis
+
 5/10/2024
+
 
 Project:
 This project is a neural network classifier implemented from scratch in c++. It uses
